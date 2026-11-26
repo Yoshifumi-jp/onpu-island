@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "おんぷアイランド",
+  "short_name": "おんぷアイランド",
+  "description": "小学校低学年向けに、楽譜の読み方を島をめぐるゲームで学ぶアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#BFE6F2",
+  "theme_color": "#BFE6F2",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

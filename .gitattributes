@@ -1,0 +1,5 @@
+# 改行コードを LF にそろえる
+* text=auto eol=lf
+*.pdf binary
+*.woff2 binary
+*.png binary
